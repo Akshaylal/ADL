@@ -1,6 +1,5 @@
 // C program to implement interpolation search 
-https://www.geeksforgeeks.org/interpolation-search/
-
+//https://www.geeksforgeeks.org/interpolation-search/
 
 #include<stdio.h> 
 
